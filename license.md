@@ -155,4 +155,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Cyberpunk 2077 · Updated 2026-10-29 · Shared under the MIT License*
+*Cyberpunk 2077 · Updated 2026-10-30 · Shared under the MIT License*
